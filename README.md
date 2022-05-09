@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java, Python, Assembly/C
 - 💜 Currently studying at BU 🇨🇦
-- 📖 Previous repos are for assignments from CdeS and CS211
+- 📖 Previous repos are for assignments from Cegep, CS211, CS216, CS304
+- 🌱 Looking for personal growth
 - 🙏 I hope the code helps you out for your own assignments
 - 📫 How to reach me: everything4jerry@gmail.com
 
