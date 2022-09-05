@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💜 Currently studying at BU 🇨🇦
+- 💜 Currently studying at Bishop's University 🇨🇦
 - 📖 Previous repos are for assignments from Cegep, CS211, CS216, CS304
 - 🌱 Looking for personal growth
 - 🙏 I hope the code helps you out for your own assignments
