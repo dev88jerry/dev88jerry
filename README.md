@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- 💜 Currently studying at Bishop's University 🇨🇦
-- 📖 Previous repos are for assignments from Cegep, CS211, CS216, CS304
-- 🌱 Looking for personal growth
+- 💜 BSc Computer Science, Bishop's University '24 🇨🇦
+- 📖 Previous repos are for assignments and projects from Cegep and various other Computer Science/Math courses
+- 🔭 I am currently looking for a position as a junior devloper
+- 🌱 Looking to grow my skills in Python, C#, TypeScript, Java
 - 🙏 I hope the code helps you out for your own assignments
-- 📫 How to reach me: everything4jerry@gmail.com
+- 📫 How to reach me: jerry.88.lau@outlook.com
+- 🤝 [Let's connect](https://www.linkedin.com/in/jerry-c-lau/)
 
-#### Finally a look at my skils
-
-![This is a meme](https://i.imgur.com/XJSMEbs.jpeg)
 <!--
 **dev88jerry/dev88jerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![This is a meme](https://i.imgur.com/XJSMEbs.jpeg)
 -->
