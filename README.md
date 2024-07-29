@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💜 BSc Computer Science, Bishop's University '24 🇨🇦
+- 💜 MSc Computer Science - Theses, Bishop's University '26 🇨🇦
 - 📖 Previous repos are for assignments and projects from Cegep and various other Computer Science/Math courses
 - 🔭 I am currently looking for a position as a junior devloper
 - 🌱 Looking to grow my skills in Python, C#, TypeScript, Java
